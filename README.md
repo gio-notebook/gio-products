@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Desarrollador de aplicaciones web y multiplataforma con ganas de hacerse un nombre en este mundo.  😄<br><br>- Trabajando como desarrollador FullStack en <a href="https://praxya.com/" target="blank">Praxya Soluciones</a>  ⌨️<br><br>- Creando mis proyectos personales para aprender, incrementar y actualizar mis herramientas de trabajo 🔧<br><br>- alienlink.es 👽👾</p>
+<p align="left">Desarrollador de aplicaciones web y multiplataforma con ganas de hacerse un nombre en este mundo.  😄<br><br>- Trabajando como desarrollador FullStack en <a href="https://praxya.com/" target="blank">Praxya Soluciones</a>  ⌨️<br><br>- Creando mis proyectos personales para aprender, incrementar y actualizar mis herramientas de trabajo 🔧<br><br>- <a href="https://alienlink.es/" target="blank">AlienLink 👽👾</a></p>
 
 ###
 
