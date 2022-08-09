@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, soy Sergio, gio para los amigos.</h1>
 <h3 align="center">Desarrollador web y multiplataforma con ganas de ganarse un nombre.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
