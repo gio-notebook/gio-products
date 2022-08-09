@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Sergio aunque para los amigos Gio.</p>
+<p align="left">Mi nombre es Sergio y para los amigos Gio.</p>
 
 ###
 
